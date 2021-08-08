@@ -1,0 +1,6 @@
+{
+    "git.allowNoVerifyCommit": true,
+    "git.allowForcePush": true,
+    "github-enterprise.uri": "vscode://vscode.github-authentication/did-authenticate?windowid=1&code=42f7582ca0d1a0374e97&state=fb16c1a9-7b26-4d69-adac-de349d3cd8fb",
+    "github.gitAuthentication": true
+}
